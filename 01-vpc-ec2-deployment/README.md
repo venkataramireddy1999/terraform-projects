@@ -137,10 +137,10 @@ flowchart TD
 
 <ul>
 <li>How to define AWS resources (VPC, Subnet, EC2) with Terraform</li>
-<li>How to use variables, outputs, and providers</li>
-<li>How to store Terraform state in S3 for team collaboration</li>
-<li>How to lock state with DynamoDB (optional but recommended)</li>
-<li>How to create reusable infrastructure modules in future projects</li>
+<li>How to use <b>variables, outputs,</b> and <b>providers</b> </li>
+<li>How to <b>store Terraform state in S3</b> for team collaboration</li>
+<li>How to <b>lock state with DynamoDB</b> (optional but recommended)</li>
+<li>How to create <b>reusable infrastructure modules</b> in future projects</li>
 </ul>
 
 ---
@@ -153,3 +153,4 @@ flowchart TD
 🔗 [LinkedIn](https://www.linkedin.com/in/venkataramireddy-bobbala/)  
 🐙 [GitHub](https://github.com/venkataramireddy1999)
 
+⭐ *If you find this project useful, please give it a star and follow my weekly DevOps learning journey!*
